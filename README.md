@@ -11,7 +11,7 @@ O **AI-RTA** é um curso prático (hands-on) projetado para construir habilidade
 
 ### 🏗️ Arquitetura do Laboratório
 O ambiente simula uma infraestrutura corporativa real de IA, onde um atacante (Red Team) deve contornar múltiplas camadas de defesa:
-![Arquitetura do Laboratório](./lab_arch_AIRTA.webp‎)
+![Arquitetura do Laboratório](./lab_architecture.png)
 
 ### 🎓 Procedimento de Certificação
 A conquista da certificação exige a conclusão de um laboratório prático de 30 dias e a captura de mais de 10 flags em diferentes cenários de ataque.
